@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://chaymae-benayad.netlify.app/](https://chaymae-benayad.netlify.app/)
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://chaymae-benayad.netlify.app/">my portfolio</a>
 
 - 📫 How to reach me **benayad.chaymae@gmail.com**
 
