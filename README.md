@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 I'm Chaymae Benayad</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<img src="https://user-images.githubusercontent.com/78702422/200929088-73b0d708-089a-4807-92cf-6919be807624.gif" alt="banner"/>
+
 
 # ✍️ About Me :
 - 🔭 I’m currently working on **Trivia Quiz**. It is a web app created to test knowledge in common topics. It is developed using **ReactJS**. You can check it out <a href="https://github.com/ChaymaeBenayad/Trivia-Quiz">here</a>
@@ -16,10 +16,10 @@
 
 # 📊 Github Status :
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaymaeBenayad&" alt="streak stats" />
-<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaymaeBenayad&layout=compact&exclude_repo=Fast-Delivery-App,E-Commerce-WebSite,AppEdoc,Events-Countdown-Timer,Adopet-Landing-Page,Content-Creation-Branding,ENSAHLibraryManagement" alt="top languages" /><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaymaeBenayad&layout=compact&exclude_repo=Fast-Delivery-App,E-Commerce-WebSite,AppEdoc,Events-Countdown-Timer,Adopet-Landing-Page,Content-Creation-Branding,ENSAHLibraryManagement" alt="top languages" /><br />
 
 # 🏆 GitHub Trophies :
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChaymaeBenayad&title=MultiLanguage,Commits,Repositories,Followers&margin-w=15" alt="github trophies" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChaymaeBenayad&title=MultiLanguage,Commits,Repositories,Followers&margin-w=15" alt="github trophies" /></a>
 
 # 💻 Tech Stack :
 ### 🎨 Design :
@@ -43,4 +43,4 @@
 ### 🎛️ Operating Systems :
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <hr />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChaymaeBenayad&label=Profile%20views&color=0e75b6&style=flat" alt="profile views badge" /> </p>
+<img src="https://komarev.com/ghpvc/?username=ChaymaeBenayad&label=Profile%20views&color=0e75b6&style=flat" alt="profile views badge" />
