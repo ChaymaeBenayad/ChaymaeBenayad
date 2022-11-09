@@ -15,8 +15,8 @@
 - 📫 How to reach me **benayad.chaymae@gmail.com**
 
 # 📊 Github Status :
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaymaeBenayad&" alt="streak stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaymaeBenayad&layout=compact&exclude_repo=Fast-Delivery-App,E-Commerce-WebSite,AppEdoc,Events-Countdown-Timer,Adopet-Landing-Page,Content-Creation-Branding,ENSAHLibraryManagement" alt="top languages" /><br />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaymaeBenayad&ring=C244C0&fire=C244C0&currStreakLabel=C244C0" alt="streak stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaymaeBenayad&layout=compact&exclude_repo=Fast-Delivery-App,E-Commerce-WebSite,AppEdoc,Events-Countdown-Timer,Adopet-Landing-Page,Content-Creation-Branding,ENSAHLibraryManagement&title_color=C244C0" alt="top languages" />
 
 # 🏆 GitHub Trophies :
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChaymaeBenayad&title=MultiLanguage,Commits,Repositories,Followers&margin-w=15" alt="github trophies" /></a>
