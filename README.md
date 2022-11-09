@@ -1,11 +1,25 @@
-# Hi there 👋
+<h1 align="center">Hi there 👋 I'm Chaymae Benayad</h1>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 
 # ✍️ About Me :
-🔭 I’m currently working on `Trivia Quiz`. It is a web app created to test knowledge in common topics. It is developed using `ReactJS`. You can Check out the code      <a href="https://github.com/ChaymaeBenayad/Trivia-Quiz">here</a> <br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 Feel free to reach out for collaboration<br>🌱 I’m currently learning ReactJS <br>:national_park: Check out my<a href="https://chaymae-benayad.netlify.app/"> Portfolio </a> 
+- 🔭 I’m currently working on **Trivia Quiz**. It is a web app created to test knowledge in common topics. It is developed using **ReactJS**. You can check it out <a href="https://github.com/ChaymaeBenayad/Trivia-Quiz">here</a>
+
+- 👯 I’m looking to collaborate on **open source projects**
+
+- 🤝 Feel free to reach out for collaboration
+
+- 🌱 I’m currently learning **ReactJS**
+
+- 👨‍💻 All of my projects are available at [https://chaymae-benayad.netlify.app/](https://chaymae-benayad.netlify.app/)
+
+- 📫 How to reach me **benayad.chaymae@gmail.com**
 
 # 📊 Github Status :
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaymaeBenayad&" alt="streak stats" />
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaymaeBenayad&layout=compact&exclude_repo=Fast-Delivery-App,E-Commerce-WebSite,AppEdoc,Events-Countdown-Timer,Adopet-Landing-Page,Content-Creation-Branding,ENSAHLibraryManagement" alt="top languages" /><br />
+
+# 🏆 GitHub Trophies :
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChaymaeBenayad&title=MultiLanguage,Commits,Repositories,Followers&margin-w=15" alt="github trophies" /></a> </p>
 
 # 💻 Tech Stack :
 ### 🎨 Design :
@@ -28,3 +42,5 @@
 
 ### 🎛️ Operating Systems :
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<hr />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChaymaeBenayad&label=Profile%20views&color=0e75b6&style=flat" alt="profile views badge" /> </p>
