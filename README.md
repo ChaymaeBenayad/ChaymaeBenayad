@@ -1,11 +1,11 @@
 # Hi there 👋
 
-# 💫 About Me :
+# ✍️ About Me :
 🔭 I’m currently working on `Trivia Quiz`. It is a web app created to test knowledge in common topics. It is developed using `ReactJS`. You can Check out the code      <a href="https://github.com/ChaymaeBenayad/Trivia-Quiz">here</a> <br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 Feel free to reach out for collaboration<br>🌱 I’m currently learning ReactJS <br>:national_park: Check out my<a href="https://chaymae-benayad.netlify.app/"> Portfolio </a> 
 
-# 💬 Social :
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaymae-benayad/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl/)
-
+# 📊 Github Status :
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaymaeBenayad&" alt="streak stats" />
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaymaeBenayad&layout=compact&exclude_repo=Fast-Delivery-App,E-Commerce-WebSite,AppEdoc,Events-Countdown-Timer,Adopet-Landing-Page,Content-Creation-Branding,ENSAHLibraryManagement" alt="top languages" /><br />
 
 # 💻 Tech Stack :
 ### 🎨 Design :
@@ -28,6 +28,3 @@
 
 ### 🎛️ Operating Systems :
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-# 🎓 Education :
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white) ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c) 
