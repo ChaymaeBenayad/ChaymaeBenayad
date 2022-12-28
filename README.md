@@ -2,7 +2,7 @@
 
 
 # ✍️ About Me :
-- 🔭 I’m currently working on **Trivia Quiz**. It is a web app created to test knowledge in common topics. It is developed using **ReactJS**. You can check it out <a href="https://github.com/ChaymaeBenayad/Trivia-Quiz">here</a>
+- 🔭 I’m currently working on **Expensio**. It is a web app created to keep track of your monthly expenses. It is developed using **ReactJS**.
 
 - 👯 I’m looking to collaborate on **open source projects**
 
